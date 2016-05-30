@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "WebApp Like a Boss",
+    "packageVersion": "0.1.0",
+    "revealTheme": "beige",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "filipeforattini",
+    "githubRepository": "teaching-webapp-like-a-boss"
+  }
+}
